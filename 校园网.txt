@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<link rel="stylesheet" type="text/css" href="style/xiao_yuan_zhuye.css" />
+<script type="text/javascript" src="js1/xiao_yuan_js.js"></script>
+</head>
+<body>
+<div id="wrap">
+<div id="header">
+<div class="pic_header1_1" id="pic_header1_1">
+<ul>
+<li><a href="#">注册</a></li>
+<li><a href="#">登录</a></li>
+</ul>
+</div>
+<div id="nav">
+<ul>
+<li><a href="#">首页</a></li>
+<li><a href="#">校园兼职</a></li>
+<li><a href="#">校园趣事</a></li>
+<li><a href="#">学自创业</a></li>
+<li><a href="#">基金理财</a></li>
+<li><a href="#">社团活动</a></li>
+<li><a href="#">杂货商铺</a></li>
+</ul>
+<h5 class="time" id="time">1234</h5>
+</div>
+</div>
+<div id="mainbody">
+<div class="left" id="left_1">
+<ul>
+<li class="li1"><a href="#"><i><img src="images/f1.jpg" width="298px" height="187px" /></i><div class="rsp"></div></a></li>
+<li class="li2"><a href="#"><i><img src="images/f2.jpg" width="298px" height="187px" /></i><div class="rsp"></div></a></li>
+<li class="li3"><a href="#"><i><img src="images/f3.jpg" width="298px" height="187px" /></i><div class="rsp"></div></a></li>
+<li class="li4"><a href="#"><i><img src="images/f4.jpg" width="298px" height="187px" /></i><div class="rsp"></div></a></li>
+</ul>
+</div>
+<div class="right" id="scrollBox">
+<ul id="con1">
+<li><a href="#">1.网上一元购物的内幕消息</a><span>2016-11-12</span></li>
+<li><a href="#">2.节日表白的栏目每天定期更新</a><span>2016-11-12</span></li>
+<li><a href="#">3.今日校园最大的趣闻乐事</a><span>2016-11-12</span></li>
+<li><a href="#">4.昨日基金的走势情况</a><span>2016-11-12</span></li>
+<li><a href="#">5.公布下星期的社团的活动</a><span>2016-11-12</span></li>
+<li><a href="#">6.昨天入住学生自创业的团队</a><span>2016-11-12</span></li>
+<li><a href="#">7.校园兼职更新</a><span>2016-11-12</span></li>
+<li><a href="#">8.今日校园超市的优惠商品</a><span>2016-11-12</span></li>
+</ul>
+<ul id="con2">
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>
